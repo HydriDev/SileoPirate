@@ -1,0 +1,13 @@
+Package: com.hydri.sileoowo
+Name: SileoOwO
+Version: 0.2.2
+Depends: firmware (>= 11.0), curl, unzip, zip
+Architecture: iphoneos-arm
+Description: Wead your Siweo package manyagew with me OwO Speak
+Conflicts: com.hydri.sileoowo (<=0.1.9)
+Maintainer: Hydri
+Homepage: https://hydridev.github.io/repo/
+Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.sileoowo
+SileoDepiction: https://raw.githubusercontent.com/HydriDev/repo/gh-pages/sileodepictions/SileoOwO
+Author: Hydri
+Section: Tweaks
