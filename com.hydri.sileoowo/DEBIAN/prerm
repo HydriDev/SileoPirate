@@ -81,6 +81,6 @@ cp -afv "/sileopirate/sileo-string-backup/." "$SILEOSTRINGS/"
 
 take_ye_own
 
-echo "Aye! Sileo now be reverted back to its original form. Back to work, lads!"
+echo "Aye! Sileo now be reverted back to its original form. Back to work, lads!!"
 rm -rfv /sileopirate
 fi

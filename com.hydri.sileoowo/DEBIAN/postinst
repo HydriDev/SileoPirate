@@ -76,4 +76,4 @@ echo "Takin' back what be ours!"
 chown root:wheel $SILEOSTRINGS/*.strings
 chown root:wheel $SILEOSTRINGS/*.stringsdict
 
-echo "Blow Sileo down for ye effects to work!"
+echo "Blow Sileo down for ye effects to work!!"
